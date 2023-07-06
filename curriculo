@@ -1,1 +1,49 @@
-curriculo
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Curriculo</title>
+  </head>
+  <body>
+    <h1>
+      Curriculo
+    </h1>
+
+    <h2>Iasmin Caroline Queiroz Fernandes</h2>
+    <p>
+      Jardim Encantado - Belo Horizonte | (31)97147-4358 |
+      iasmincarolinefernandes@gmail.com
+    </p>
+
+    <h3>Objetivos:</h3>
+    <p>Estou em busca de estagio na area de tecnologia e/ou programação</p>
+
+    <h3>Educação:</h3>
+    <p><strong>Analise e Desenvolvimento de Sistema</strong> - 2023 a 2025</p>
+    <p>Universidade Anhanguera - Cursando</p>
+
+    <h3>Cursos:</h3>
+    <p>
+      <strong>Desenvolvimento Front-End(HTML, CSS e JavaScript)</strong> - 2023
+    </p>
+    <p>Escola KICK - Concluído</p>
+
+    <p><strong>Desenvolvimento Mobile (Kotlin)</strong> - 2023</p>
+    <p>Escola IBM - Cursando</p>
+
+    <p><strong>Desenvolvimento Back-End (Java)</strong> - 2023</p>
+    <p>Escola Coursera - Cursando</p>
+
+    <h3>Experiências:</h3>
+    <p><strong>VLI Logistica</strong> - 2021 a 2022</p>
+    <p>Estagiaria - Auxiliar nas atividades do setor de RI e Tesouraria</p>
+
+    <h3>Portfolio e GitHub:</h3>
+    <p>https://iasmincqfernandes.github.io/Projeto-Portfolio/</p>
+    <p>
+      https://github.com/IasminCQFernandes
+    </p>
+  </body>
+</html>
